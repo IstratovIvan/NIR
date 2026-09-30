@@ -1,0 +1,25 @@
+{
+    "interface": "wlx80afcaaf4ae1",
+    "server": "192.168.31.25",
+
+    "duration_sec": 120,
+
+    "wifi_interval_sec": 1.0,
+    "tcp_interval_sec": 0.5,
+    "iperf_interval_sec": 1,
+
+    "congestion_control": "cubic",
+    "direction": "downlink",
+
+    "distance_m": 1,
+
+    "background_load_percent": 50,
+    "channel_capacity_mbps": 100,
+    "background_port": 5202,
+
+    "repeat": 3,
+
+    "results_dir": "./results_downlink",
+
+    "stabilization_sec": 5
+}
