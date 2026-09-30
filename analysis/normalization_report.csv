@@ -1,0 +1,14 @@
+metric,min_value,max_value
+rssi_dbm,-54.0,-29.0
+tx_bitrate_mbps,175.5,390.0
+rx_bitrate_mbps,6.0,780.0
+signal_avg,-55.0,-28.0
+rtt_ms,1.986,416.31600000000003
+rttvar_ms,0.179,183.213
+cwnd,1.0,3753.0
+throughput_mbps,0.0,279.19091791041075
+mcs,2.0,9.0
+tx_failed,0.0,12.0
+retrans,0.0,183.5
+lost,1.0,1449.0
+total_retrans,1.0,4262.0

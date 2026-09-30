@@ -1,0 +1,18 @@
+{
+    "experiment_start": "2026-09-10T23:33:20.706213+00:00",
+    "interface": "wlx80afcaaf4ae1",
+    "server": "192.168.31.25",
+    "congestion_control": "cubic",
+    "direction": "uplink",
+    "distance_m": 1,
+    "background_load_percent": 0,
+    "repeat": 1,
+    "duration_sec": 120,
+    "wifi_interval_sec": 1.0,
+    "tcp_interval_sec": 0.5,
+    "iperf_interval_sec": 1,
+    "stabilization_sec": 5,
+    "experiment_end": "2026-09-10T23:35:23.159306+00:00",
+    "iperf3_exit_code": 0,
+    "success": true
+}
